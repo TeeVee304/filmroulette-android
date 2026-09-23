@@ -57,7 +57,7 @@ ui/
 | AI | Google Gemini / NVIDIA NIM, behind one interface |
 | Build | Gradle KTS, version catalog, AGP 9.1 · minSdk 24 · targetSdk 35 |
 
-## Building it
+## Build
 
 The app needs credentials that are deliberately not in the repository.
 
@@ -73,7 +73,7 @@ The app needs credentials that are deliberately not in the repository.
 
 3. Open `projeto/` in Android Studio and run on a device or emulator with API 24 or higher.
 
-## Course tutorials
+## Course Tutorials
 
 The four tutorials leading up to the project, each with its own README (PT-PT <img src="https://flagcdn.com/16x12/pt.png" alt="PT" width="16">):
 
